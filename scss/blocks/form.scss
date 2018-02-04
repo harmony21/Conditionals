@@ -226,8 +226,9 @@
         }
     }
     .ml-vertical-align-center {
+        margin-top: 20px;
         @include tablets {
-            width: 340px !important;
+            width: 335px !important;
             margin-bottom: 30px;
         }
         @include phones {
@@ -243,6 +244,7 @@
             @include phones {
                 margin-right: 0;
                 margin-top: 20px;
+                margin-bottom: 15px;
             }
 
         }

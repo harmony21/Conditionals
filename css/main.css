@@ -1,7 +1,7 @@
 @charset "UTF-8";
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i&subset=cyrillic,cyrillic-ext,latin-ext");
 .welcome {
-  background: url("..//img/conditionals.png") center center;
+  background: url("..//img/2.png") center center;
   width: 100%;
   min-height: 100vh;
   background-size: cover;
@@ -791,7 +791,7 @@
       margin-left: -28px; } }
 
 .registration {
-  background: url("..//img/conditionals.png") center center no-repeat;
+  background: url("..//img/2.png") center center no-repeat;
   background-size: cover;
   width: 100%;
   font-family: Raleway-Regular;
